@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background:yellow;
+}
+header {
+    display: flex;
+    background: black;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 30px;
+
+}
+h1 {
+    color: white;
+    font-weight: 700;
+    font-size: 32px;
+    margin-left: 25px;
+}
+.menu {
+    display: flex;
+}
+.itensmenu {
+    color: yellow;
+    text-decoration: none;
+    margin-right: 50px;
+
+}
+.miolosite {
+    height: 500px;
+    
+}
+footer {
+    background: black;
+    padding: 30px;
+}
+.imagemfooter {
+    align-items: center;
+    margin-left: 45%;
+    padding: 8px;
+}
+.copyrighttexto {
+    text-align: center;
+    color: white;
+    bottom: 0;
+}
