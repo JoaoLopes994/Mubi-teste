@@ -1,0 +1,9 @@
+header{
+    justify-content: space-between;
+}
+.menu {
+    display: flex;
+}
+main {
+    display: flex;
+    flex-direction: row;
